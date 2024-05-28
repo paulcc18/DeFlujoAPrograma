@@ -1,5 +1,10 @@
 package DeFlujoaPrograma;
 
+/*
+Integers: Paul Cumbal & Dominix Barroso
+Class: Sistemas 01
+*/
+
 import java.util.Scanner;
 
 public class FIBONACCI {
